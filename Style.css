@@ -1,0 +1,89 @@
+*{
+    padding: 0;
+    margin: 0;
+    /* color: white; */
+}
+
+#Amazon
+{
+color:#f08804;
+}
+
+#nav
+{
+    /* position: fixed;
+    top:0; */
+    background-color: #0f1111;
+    font-size: xx-large;
+    height: 50px;
+    width: 1520px;
+    color: #f08804;  
+    
+}
+
+a
+    {
+        text-decoration: none;
+        margin-right: 100px;
+        color: blue;
+    }
+
+    #body1{
+      background-color: aqua;
+      color: black;
+      text-align: center;
+    }
+     
+    #foot
+    {
+        margin-top: 500px;
+        background-color:#0f1111;
+        width: 100%;
+        text-align: center;
+        height: 35px;
+        color: white;
+    }
+
+   button
+   {
+       background-color: #f08804;
+       size: 50px;
+       color: yellow;
+    }
+
+    main
+    {
+        background-color:rgb(240, 181, 104);
+    }
+
+    button
+    {
+    
+       background-color: aquamarine; 
+       color: #f08804;
+    }
+
+   #form
+    {
+        margin-right: 50px;
+        text-align:center;
+    }
+
+    img
+    {
+        height: 100px;
+        width: 100px;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+    }
+    
+    #rem
+    {
+        margin-right: 100px;
+    }
+
+    #body
+    {
+       font-size: 100px;
+    }

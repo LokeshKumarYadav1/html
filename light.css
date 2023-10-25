@@ -1,0 +1,42 @@
+#light{
+    background-color: black;
+    height: 700px;
+    width: 400px;
+    border-radius: 25%;
+}
+#red{
+    height: 170px;
+    width: 170px;
+    border-radius: 50%;
+    background-color: red;
+    margin-left: 125px;
+    /* margin-top: 50px; */
+}
+
+#green{
+    height: 170px;
+    width: 170px;
+    border-radius: 50%;
+    background-color: green;
+    margin-left: 125px;
+    margin-top: 50px;
+}
+
+#yellow{
+    height: 170px;
+    width: 170px;
+    border-radius: 50%;
+    background-color: yellow;
+    margin-left: 125px;
+    margin-top: 50px;
+}
+
+marquee{
+    color: red;
+    background-color: yellow;
+    font-size: 50px;
+}
+
+div{
+    margin-left: 40%;
+}

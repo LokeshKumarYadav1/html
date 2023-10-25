@@ -1,0 +1,262 @@
+*body
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+body
+{
+    background-image: url(star.jpg);
+    height: 100%;
+    width: 100%;
+}
+
+marquee
+{
+    background-color: aqua;
+    font-size: xx-large;
+}
+
+/* .div1
+{
+
+text-align: center;
+
+} */
+
+#h1
+{
+    font-size: 90px;
+    color: aqua;
+    text-align: center;
+}
+
+#h2
+{
+    font-size: 90px;
+    color: aqua;
+    text-align: center;
+}
+
+#h3
+{
+    font-size: 90px;
+    color: aqua;
+    text-align: center;  
+}
+
+#h4
+{
+    font-size: 90px;
+    color: aqua;
+    text-align: center;  
+
+}
+
+#h5
+{
+    font-size: 90px;
+    color: aqua;
+    text-align: center;  
+
+}
+
+#h6
+{
+    font-size: 90px;
+    color: aqua;
+    text-align: center;  
+
+}
+
+#h7
+{
+    font-size: 90px;
+    color: aqua;
+    text-align: center;  
+
+}
+
+#h7
+{
+    font-size: 90px;
+    color: aqua;
+    text-align: center;  
+
+}
+
+#h8
+{
+    font-size: 90px;
+    color: aqua;
+    text-align: center;  
+
+}
+
+#h9
+{
+    font-size: 90px;
+    color: aqua;
+    text-align: center;  
+
+}
+
+#sun
+{
+text-align: center;
+font-size: xx-large;
+color: aquamarine;
+}
+
+a
+{
+    text-decoration:none;
+    color: skyblue;
+    font-size: xx-large;
+}
+
+#a2
+{
+    margin-left: 200px;
+    
+}
+
+#a3
+{
+    margin-left: 200px;
+}
+
+#a4
+{
+    margin-left: 200px;
+}
+
+#search
+{
+    margin-left: 200px;
+    background-color: aqua;
+}
+
+#button
+{
+    background-color: aqua;
+}
+
+#sunimg
+{
+    height: 250px;
+    width: 250px;
+    margin-left: 40%;
+    margin-top: 0px;
+}
+
+#p1
+{
+color:aquamarine;
+font-size: 25px;
+}
+
+#mercimg
+{
+    height: 250px;
+    width: 250px;
+    margin-left: 40%;
+}
+
+#p2
+{
+    color: aquamarine;
+    font-size: 25px;
+}
+
+
+#venusimg
+{
+    height: 250px;
+    width: 250px;
+    margin-left: 40%;
+}
+
+#p3
+{
+    color: aquamarine;
+    font-size: 25px;
+}
+
+#earthimg
+{
+    height: 250px;
+    width: 250px;
+    margin-left: 40%;
+}
+
+#p4
+{
+    color:aquamarine;
+    font-size: 25px;
+}
+
+#marsimg
+{
+    height: 250px;
+    width: 250px;
+    margin-left: 40%;
+}
+
+#p5
+{
+    color:aquamarine;
+    font-size: 25px;
+}
+
+#jupitimg
+{
+    height: 250px;
+    width: 250px;
+    margin-left: 40%;
+}
+
+#p6
+{
+    color:aquamarine;
+    font-size: 25px;
+}
+
+#satimg
+{
+    height: 250px;
+    width: 250px;
+    margin-left: 40%;
+}
+
+#p7
+{
+    color:aquamarine;
+    font-size: 25px;
+}
+
+#uranusimg
+{
+    height: 250px;
+    width: 250px;
+    margin-left: 40%;
+}
+
+#p8
+{
+    color:aquamarine;
+    font-size: 25px;
+}
+
+#neptimg
+{
+    height: 250px;
+    width: 250px;
+    margin-left: 40%;
+}
+
+#p9
+{
+    color:aquamarine;
+    font-size: 25px;
+}

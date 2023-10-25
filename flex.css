@@ -1,0 +1,35 @@
+div{
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+}
+
+#container{
+    height: 200px;
+    width: 800px;
+    border: 2px violet solid;
+    display: inline-block;
+    position: relative;
+    top: 200px;
+    background-color: black;
+}
+
+body{
+text-align: center;
+}
+
+#box1{
+    background-color:red ;
+}
+
+#box2{
+    background-color: palegreen;
+}
+
+#box3{
+    background-color: gray;
+}
+
+#box4{
+    background-color: green;
+}
